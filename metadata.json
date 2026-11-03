@@ -1,0 +1,6 @@
+{
+  "name": "BẢNG VẼ HÌNH HỌC _ PHẠM HẬU",
+  "description": "Bảng vẽ hình học phẳng, hình học không gian 3D, đồ thị hàm số, sơ đồ xác suất, biểu đồ Venn, đo đạc và in trang A4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
